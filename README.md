@@ -1,5 +1,5 @@
 # Insta-API
- HTTP JSON API that can be used to perform basic tasks of Creating User, Creating Post, Getting User & Post details through their Unique ID.
+ HTTP JSON API that can be used to perform basic tasks of Creating User, Creating Post, Getting User & Post details through their Unique ID. It is developed using Go-Lang and MongoDB as database
 
 ## Brief Overview of API
 The API provides following features
