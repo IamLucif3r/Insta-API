@@ -36,6 +36,8 @@ The API provides following features
  * The GET request is to be sent along with id in URL
  * The URL for fetching posts details: ```http://localhost:9000/posts/<id>```
  * The Get Post Function:
+
+
  ![](https://github.com/IamLucif3r/Insta-API/blob/main/docs/getPost.png)
 
 **NOTE** I was unable to create a function for fetching Posts according to User ID, so I created an extra function for deleting users.
