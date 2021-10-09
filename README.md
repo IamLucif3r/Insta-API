@@ -48,4 +48,6 @@ The API provides following features
  * The ID of user is passed in URL for deletion: ```http://localhost:9000/user/<id>```
   ![](https://github.com/IamLucif3r/Insta-API/blob/main/docs/delete.png)
   
+<hr>
 
+This repository is maintained by : [IamLucif3r](https://www.linkedin.com/in/anmolsinghyadav/)
